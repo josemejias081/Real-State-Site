@@ -49,12 +49,14 @@ Este código puede ser utilizado como base para la creación de un sitio web per
 ## Contribuciones 
 Si deseas contribuir a este proyecto, puedes hacerlo mediante pull requests. Cualquier sugerencia o mejora es bienvenida.
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Puedes encontrar más detalles en el archivo LICENSE.
-
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
-
+- **Youtube**: [@josemejiasdesarrolloweb](https://www.youtube.com/@josemejiasdesarrolloweb) 
 - **Jose Mejias:** [GitHub](https://github.com/josemejias081)
 - **Email:** josemejias081@gmail.com
+  
+## 📄 Licencia
+Este proyecto está bajo la licencia MIT. Puedes ver el archivo LICENSE para más detalles.
+
+¡Gracias por visitar el repositorio! Si te gusta el proyecto, considera darle una ⭐.
